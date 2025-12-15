@@ -81,8 +81,9 @@ Data Analyst | BI Specialist | Oracle Expert
 ---
 
 ## 📷 Preview
-> *(Add a screenshot of the dashboard here)*
+> *(dashboard-preview.png)*
 
 ---
+![Dashboard Preview](dashboard-preview.png)
 
 ⭐ If you find this project useful, feel free to star the repository!
